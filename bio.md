@@ -1,5 +1,5 @@
 # Konstantinos Kikakis
-![GitHub Logo] /images/my_photo.jpg)
+![] ( https://github.com/kikkon11/mycv/my_photo.jpg )
 ### WORK EXPERIENCE
 Informatics Teacher at private primary school in Athens (2008-2020)
 ### STUDIES
