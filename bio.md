@@ -3,9 +3,9 @@
 ### WORK EXPERIENCE
 Informatics Teacher at private primary school in Athens (2008-2020)
 ### STUDIES
-**MSc, Pervasive and Mobile Computing Systems 
+**MSc, Pervasive and Mobile Computing Systems** 
 ###### Hellenic Open University, Patras, Greece
-**Computer Engineering (
+**Computer Engineering**
 ###### Technological Educational Institute of Pireaus, Greece
 ### QUALIFICATIONS
 - [x] **Programming**
