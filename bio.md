@@ -14,8 +14,8 @@ Informatics Teacher at private primary school in Athens (2008-2020)
 - [x] **Database Management**
 
 ### Languages
-___ | ___ | ___
---- | --- | ---
+___ | ___ 
+
 English | Greek  
 
 ***
