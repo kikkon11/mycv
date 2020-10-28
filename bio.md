@@ -1,8 +1,14 @@
 # Konstantinos Kikakis
 ![](https://github.com/kikkon11/mycv/blob/main/my_photo.jpg)
-### WORK EXPERIENCE
+### Personal Info | 
+    --------------|----------------------------------------------
+    Address :| 13 Theokritou Street , 12134 Peristeri, Greece
+    Phone   :| +30 698 865 1289
+    Email   :| konkikakis@gmail.com, std133523@ac.eap.gr
+
+### Work Experience
 Informatics Teacher at private primary school in Athens (2008-2020)
-### STUDIES
+### Studies
 **MSc, Pervasive and Mobile Computing Systems** 
 ###### Hellenic Open University, Patras, Greece
 **Computer Engineering**
@@ -14,7 +20,6 @@ Informatics Teacher at private primary school in Athens (2008-2020)
 - [x] **Database Management**
 
 ### Languages
-___ | ___ 
 
 English | Greek  
 
